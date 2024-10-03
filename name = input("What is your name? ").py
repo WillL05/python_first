@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+print(f"oh cool, I had a friend at school called {name}")
+location = input("Where did you grow up? ")
+print(f"I hear that there is a museum in {location}")
+favourite_animal = input("What is your favourite animal? ")
+print(f"I personally prefer giraffes but {favourite_animal} are cool too I guess")
